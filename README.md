@@ -23,4 +23,4 @@ A WordPress plugin for creating customizable recipe cards and menus, integrated 
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/wp-recipe-plugin.git
+   git clone https://github.com/kdsn/wp-recipe.git
